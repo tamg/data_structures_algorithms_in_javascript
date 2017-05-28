@@ -6,7 +6,7 @@
 * [List ADT](http://www.tamrat.co/list-adt-data-structures-algorithms-in-javascript-p-1/)
 * [Stacks](http://www.tamrat.co/stacks-data-structures-algorithms-in-javascript-p-2/)
 * [Queues](http://www.tamrat.co/queues-data-structures-algorithms-in-javascript-p-3/)
-* Linked Lists
+* [Linked Lists](http://www.tamrat.co/linked-list-data-structures-algorithms-in-javascript-p-4/)
 * Trees, Tries & Graphs
 * Heaps
 * Hash Tables
